@@ -10,7 +10,7 @@ Juego para móvil dirigido a adolescentes y jóvenes. El jugador empieza de escu
 
 > «Así como todos esos ejercicios pertenecen al caballero en cuanto al cuerpo, le tocan en cuanto al alma la justicia, la sabiduría, la caridad, la lealtad, la verdad, la humildad, la fortaleza, la esperanza, la cautela y otras virtudes semejantes.» (II, §11)
 
-**Versión actual: 0.18.** Una sola vida de caballero, y las pruebas sueltas para practicar.
+**Versión actual: 0.19.** Una sola vida de caballero, y las pruebas sueltas para practicar.
 
 ---
 
@@ -93,7 +93,7 @@ Juego para móvil dirigido a adolescentes y jóvenes. El jugador empieza de escu
 
 ### Conde
 
-**El león.** Como el oso, pero más rápido y más fuerte. Anda a cuatro patas y solo se yergue, rampante como en el blasón, cuando lanza la zarpa.
+**El león.** Como el oso, pero más rápido y más fuerte. Con la lanza se le espera de lejos, para que salte y se clave; con la espada se pelea de cerca. Anda a cuatro patas y solo se yergue, rampante como en el blasón, cuando lanza la zarpa.
 
 ---
 
