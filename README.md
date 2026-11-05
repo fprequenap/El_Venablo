@@ -10,7 +10,7 @@ Juego para móvil dirigido a adolescentes y jóvenes. El jugador empieza de escu
 
 > «Así como todos esos ejercicios pertenecen al caballero en cuanto al cuerpo, le tocan en cuanto al alma la justicia, la sabiduría, la caridad, la lealtad, la verdad, la humildad, la fortaleza, la esperanza, la cautela y otras virtudes semejantes.» (II, §11)
 
-**Versión actual: 0.17.** Una sola vida de caballero, y las pruebas sueltas para practicar.
+**Versión actual: 0.18.** Una sola vida de caballero, y las pruebas sueltas para practicar.
 
 ---
 
@@ -32,6 +32,7 @@ Juego para móvil dirigido a adolescentes y jóvenes. El jugador empieza de escu
   - **La fiesta de precepto señalada.**
   - **La vigilia en oración:** quien sale a escuchar a los juglares ha de velar otra vez.
   - **La misa y el sermón:** los artículos, los mandamientos y los sacramentos.
+  - **El padrino:** el caballero que arma al escudero. Se elige entre varios (el señor de su tierra, aquel en cuya casa se crió de paje, un viejo caballero de la frontera…) y su nombre queda en la crónica.
   - **Ante el altar:** ceñir la espada, el beso y la bofetada (IV § 11), con las palabras «Sé caballero pacífico, esforzado, fiel y devoto de Dios» del Pontifical de Durando, y la fórmula de tradición posterior «En el nombre de Dios, de San Miguel y de San Jorge, yo te armo caballero, con el privilegio de llevar armas e impartir justicia».
   - **Montar a caballo y mostrarse a las gentes.**
   - **La fiesta y las dádivas.**
@@ -86,9 +87,13 @@ Juego para móvil dirigido a adolescentes y jóvenes. El jugador empieza de escu
 
 **Las tablas redondas.** Justa de cortesía con lanzas rebotadas y, después, el banquete, con tres pruebas de virtud: la gula, el hablar y la cortesía.
 
+### Causa justa
+
+**La liza y la maza.** El combate por una causa justa se juega en la vida cuando llega el suceso, y también puede practicarse: tres carreras a caballo con lanza y, a pie, con maza, hasta que el rival se rinde.
+
 ### Conde
 
-**El león.** Como el oso, pero más rápido y más fuerte.
+**El león.** Como el oso, pero más rápido y más fuerte. Anda a cuatro patas y solo se yergue, rampante como en el blasón, cuando lanza la zarpa.
 
 ---
 
