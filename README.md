@@ -10,7 +10,7 @@ Juego para móvil dirigido a adolescentes y jóvenes. El jugador empieza de escu
 
 > «Así como todos esos ejercicios pertenecen al caballero en cuanto al cuerpo, le tocan en cuanto al alma la justicia, la sabiduría, la caridad, la lealtad, la verdad, la humildad, la fortaleza, la esperanza, la cautela y otras virtudes semejantes.» (II, §11)
 
-**Versión actual: 0.20.** Una sola vida de caballero, y las pruebas sueltas para practicar.
+**Versión actual: 0.29.** Una sola vida de caballero, y las pruebas sueltas para practicar.
 
 ---
 
@@ -24,7 +24,7 @@ Juego para móvil dirigido a adolescentes y jóvenes. El jugador empieza de escu
 ## La vida del caballero
 
 - **Una sola vida.** Se elige nombre y edad, y se juega hasta los 80 años. El tiempo puede correr a x1, x2, x4, x7 o x10: cada jornada es un mes a x1, o diez meses a x10. La partida se puede abandonar para empezar otra.
-- **No hay vidas que gastar.** El caballero no muere en las pruebas: queda herido y convalece, más tiempo cuanto más grave sea la herida. La convalecencia se pasa leyendo el Libro de la Orden, tres parágrafos por cada mes.
+- **No hay vidas que gastar.** El caballero no muere en las pruebas: queda herido y convalece un mes, que pasa leyendo tres parágrafos del Libro de la Orden.
 - **La historia.** La vida empieza como el Libro: el escudero va a la corte, se duerme sobre el caballo y llega a la fuente del ermitaño, que le da el Libro (Prólogo §§ 4-9). En el menú de la vida, el recuadro **Tu camino** dice en cada momento qué pruebas pide tu grado, cuántas jornadas llevas y qué más falta (honra, servicios al rey, justicia).
 - **Las pruebas por grado.** Escudero: el venablo y el ciervo. Caballero: correr a caballo, el oso y la esgrima. Valvasor: las lizas y el toro. Comdor: las tablas redondas. Conde: el león.
 - **De escudero a caballero.** Ganadas las pruebas del venablo y del ciervo, llega la investidura según la Parte IV:
@@ -37,17 +37,38 @@ Juego para móvil dirigido a adolescentes y jóvenes. El jugador empieza de escu
   - **Montar a caballo y mostrarse a las gentes.**
   - **La fiesta y las dádivas.**
 - **Los grados hasta conde.** Valvasor, con tierras y vasallos; comdor, con castillo; conde. Cada grado se gana con la honra, la justicia y el servicio al rey.
-- **El señorío.** Hay que gobernar las tierras: rentas, mesnada, fortaleza y un hospital para pobres. Llegan pleitos que juzgar con justicia, malos años, incursiones que rechazar y llamadas del rey a la frontera.
+- **El señorío.** Hay que gobernar las tierras: rentas, mesnada, fortaleza y un hospital para pobres. Llegan pleitos que juzgar con justicia, malos años, incursiones que rechazar y llamadas del rey a la frontera. Además, desde «Tierras» el caballero puede ir a la corte a ofrecer su servicio al rey: dos meses en la frontera con su mesnada, que cuestan dinero y a veces un hombre o una herida. Mientras le falten servicios para su grado, el rey lo llama también más a menudo.
+- **El conde.** Gobierna su condado, defiende la tierra y sirve al rey:
+  - **La hueste del rey:** el asedio de un castillo rebelde, semana a semana. Batir el muro con los trabuquetes, dar el asalto con escalas, estrechar el cerco u ofrecer una capitulación honrosa, sin quedarse sin víveres ni sin hombres. Tomado el castillo, se decide si se cumple lo pactado y si se deja saquear la villa.
+  - **El cerco de su castillo:** un señor rebelde lo cerca y hay que resistir hasta que llegue el socorro del rey: reparar el muro, hacer salidas de noche, racionar los víveres y mandar mensajeros. La fortaleza, la prosperidad y el hospital ayudan a resistir.
+  - **El torneo:** puede convocarlo en su condado.
+  - **Las obras:** un puente de piedra, una iglesia, una escuela de escuderos y un monasterio.
+  - Cada victoria cuelga en la sala el pendón del vencido.
+- **Los retos hasta la retirada.** El conde no tiene ya grado que ganar; su meta es la memoria que dejará:
+  - **Sus escuderos y sus hijos.** Los hijos crecen como pajes en su casa, y desde valvasor puede tomar escuderos a su servicio. Aprenden con él en cada jornada de prueba superada y cuando leen juntos el Libro (I § 12). Con dieciocho años y formados, él los arma caballeros como padrino. Uno de ellos recibirá el Libro en el prado.
+  - **La largueza.** La riqueza obliga: limosnas, dotes para doncellas pobres, caballeros pobres a los que sostener, cautivos que rescatar. El que guarda su tesoro un año sin dar cae en avaricia.
+  - **Topes.** La mesnada y la fortaleza tienen un máximo según el grado, y mantener a los hombres de armas cuesta.
+  - **El juicio de su vida.** A los ochenta años, en el prado, se hace balance: honra, justicia impartida, obras de misericordia, caballeros armados, obras del señorío, pendones y trofeos, menos las faltas y los años de avaricia. De ahí sale la memoria que deja, de «espejo de la Orden» a «caballero que deshonró la Orden». En «Tu camino» se ve, mientras tanto, la memoria que dejaría hoy.
 - **Venir a menos.** Por deudas o por faltas se pierden prosperidad, vasallos y hasta el grado, y siempre cabe recuperarse.
 - **La Dama.** En la corte se conoce a la Dama y se la corteja con cortesía, verdad y castidad. Después se pide su mano y llegan el matrimonio ante el altar y los hijos.
 - **Los duelos.** El duelo por agravio personal se rechaza: quien se bate en duelo queda excomulgado (Trento, ses. XXV, de ref., c. 19) hasta hacer penitencia. El combate por una causa justa, como defender a una viuda acusada falsamente, sí es del oficio, y se juega en la liza:
   - **A caballo y con lanza, tres carreras.** Se baja la lanza y se apunta al yelmo o al escudo; herir al caballo es falta grave.
   - **A pie y con maza.** Si uno cae del caballo, o nadie cae en tres carreras, se sigue a pie, con maza y escudo, hasta que el rival se rinde.
-  - **La rendición.** Al rendido se le perdona la vida; matarlo es homicidio.
-- **La edad.** El nivel de cada prueba es el mismo a cualquier edad, pero con los años se piden menos jornadas: tres hasta los 39 años, dos de 40 a 59 y una desde los 60. Las heridas tardan más en curar con la edad, y cuanto más alto el grado y mayor el caballero, más pesan las faltas.
+  - **La merced.** El vencido pide merced, pero la merced puede ser verdadera o fingida por miedo. Hay que leer las señales: el que se rinde de verdad arroja la maza y se quita el yelmo; el que finge no suelta la maza y lleva la mano al puñal. Perdonar al sincero es lo mejor; rematarlo no es falta, pero no oirá el juez su confesión. Perdonar al que finge es falta de cautela, y hiere a traición; rematarlo a tiempo es prudencia.
+- **La edad.** El nivel de cada prueba es el mismo a cualquier edad, pero con los años se piden menos jornadas: tres hasta los 39 años, dos de 40 a 59 y una desde los 60. Cuanto más alto el grado y mayor el caballero, más pesan las faltas.
 - **Las armas del linaje.** Al empezar la vida se elige el blasón entre nueve propuestas (de gules, una cruz de oro; de azur, una banda de oro; de sinople, un castillo de oro…). El caballero lo lleva en el escudo toda la vida. Cada rival de la liza tiene sus propias armas.
-- **La sala de armas y trofeos.** La panoplia del caballero con su escudo, su lanza, su espada, el venablo y el arco; en medio, el Libro de la Orden en un atril, junto a un cirio. En los muros cuelgan todos los trofeos, porque todos han costado sangre: la cabeza del jabalí, la del ciervo con sus puntas y la del toro; la piel del oso y la del león; el escudo de cada caballero vencido, en las lizas, en las tablas redondas o en la causa justa. Cada trofeo guarda su memoria: cómo se ganó, la fecha y la edad. La pieza ganada con falta de virtud, la que se dejó agonizar o el rendido al que se mata no dejan trofeo.
+- **La sala de armas y trofeos.** La panoplia del caballero con su escudo, su lanza, su espada, el venablo y el arco; en medio, el Libro de la Orden en un atril, junto a un cirio. En los muros cuelgan todos los trofeos, porque todos han costado sangre: la cabeza del jabalí, la del ciervo con sus puntas y la del toro; la piel del oso y la del león; el escudo de cada caballero vencido, en las lizas, en las tablas redondas o en la causa justa. Cada trofeo guarda su memoria: cómo se ganó, la fecha y la edad. Se cuelgan todas las piezas cobradas, se ganaran como se ganaran: la memoria del trofeo dice cómo fue. También se cuelgan las piezas cobradas en la práctica: con una vida en curso van a su sala; sin ella, a la sala del escudero, que se abre desde la portada.
 - **El final.** A los ochenta años, como al principio del Libro, el caballero se retira al prado de la fuente a orar. Allí da el Libro a su hijo, o a un escudero que pasa, y desaparece en la bruma. Queda su crónica.
+
+## Escenas, linaje, logros, música y voz
+
+- **Escenas de miniatura**, sobre pan de oro: la comunión ante el cáliz con la hostia, la investidura ante el altar (ceñir la espada, el beso, la bofetada), el caballero que arma a su hijo o a su escudero, la boda y el nacimiento de los hijos.
+- **Los sucesos de cada edad:** la tentación en la corte, la soberbia del gran señor, el hijo que anda en malas compañías, la muerte de la esposa y el peso de los años.
+- **Libro de linaje:** guarda de cada caballero retirado sus armas, su crónica, su sala de trofeos y el juicio de su vida. Su hijo armado caballero puede continuar el linaje con las armas de su padre.
+- **Logros:** catorce, del primer jabalí al espejo de la Orden.
+- **Música:** un aire modal sobrio, compuesto para el juego, con bordón de zanfona; se apaga desde la portada.
+- **El Libro en voz alta:** el botón Escuchar lee el parágrafo con la voz en español del dispositivo.
+- **Cifras de valoración:** el correo de «Dar mi opinión» lleva cuántas jornadas se han jugado, superado y perdido en cada prueba.
 
 ## Las pruebas
 
@@ -59,7 +80,7 @@ Juego para móvil dirigido a adolescentes y jóvenes. El jugador empieza de escu
 
 **El ciervo: arco y misericordia.** Tres ciervos por jornada, con tres flechas cada uno.
 - **El tiro:** el ciervo camina, se para, pasta y vigila. Se tira cuando está parado y con la cabeza baja. Si tiras mientras vigila, te oye y salta. La mira se pone roja sobre el codillo.
-- **Codillo o vientre:** al codillo cae enseguida. Al vientre huye herido y hay que pararlo con otra flecha. Dejarlo escapar herido es falta.
+- **Codillo o vientre:** al codillo cae enseguida. Al vientre huye herido: se le puede parar con otra flecha en la huida o seguir el rastro de sangre hasta donde se echa sin fuerzas. Allí se le remata con las flechas que queden; si no quedan, el caballero se acerca y le da la misericordia.
 - **El remate:** en tierra todavía respira y patea. Hay que esperar a que se calme y rematarlo con la misericordia en la nuca, como la puntilla. Dejarlo agonizar es falta.
 
 ### Caballero
@@ -71,7 +92,7 @@ Juego para móvil dirigido a adolescentes y jóvenes. El jugador empieza de escu
 - **Escudo y Atrás:** mantén el escudo para parar cualquier ataque. Atrás sirve para esquivar.
 - **Golpes decisivos:** con el círculo rojo, cuando el oso se alza, la estocada o la lanzada al corazón lo mata en el acto. Con el oso malherido y descubierto, el tajo le parte la cabeza.
 - **La misericordia:** si cae malherido, se remata con el puñal (V, §10). Dejarlo agonizar es falta.
-- **Aguante:** atacar, esquivar y cubrirse cansan, y esperar en guardia lo recupera.
+- **Aguante:** atacar, esquivar y cubrirse cansan, y esperar en guardia lo recupera, más deprisa cuando la fiera no ataca. La astucia ahorra fuerzas: esquivar a tiempo, alzar el escudo en el último momento (parada a tiempo) y golpear al descubierto devuelven aliento. El oso viejo también se cansa y de vez en cuando jadea, descubierto.
 
 **Correr a caballo bien guarnecido.** Una carrera por el monte con 18 obstáculos: Saltar ante troncos y zanjas, mantener Agacharse ante las ramas bajas.
 
@@ -86,6 +107,8 @@ Juego para móvil dirigido a adolescentes y jóvenes. El jugador empieza de escu
 ### Comdor
 
 **Las tablas redondas.** Justa de cortesía con lanzas rebotadas y, después, el banquete, con tres pruebas de virtud: la gula, el hablar y la cortesía.
+
+**El torneo.** Dos bandos de caballeros con armas corteses: dos carreras con lanza contra el bando contrario y, después, la mêlée a pie con espada roma, hasta tomar presos a dos caballeros. Sus decisiones: el rescate de los presos, el premio del torneo y el que golpea con arma de guerra.
 
 ### Causa justa
 
