@@ -10,7 +10,7 @@ Juego para móvil dirigido a adolescentes y jóvenes. El jugador empieza de escu
 
 > «Así como todos esos ejercicios pertenecen al caballero en cuanto al cuerpo, le tocan en cuanto al alma la justicia, la sabiduría, la caridad, la lealtad, la verdad, la humildad, la fortaleza, la esperanza, la cautela y otras virtudes semejantes.» (II, §11)
 
-**Versión actual: 0.29.** Una sola vida de caballero, y las pruebas sueltas para practicar.
+**Versión actual: 0.30.** Una sola vida de caballero, y las pruebas sueltas para practicar.
 
 ---
 
@@ -47,7 +47,7 @@ Juego para móvil dirigido a adolescentes y jóvenes. El jugador empieza de escu
 - **Los retos hasta la retirada.** El conde no tiene ya grado que ganar; su meta es la memoria que dejará:
   - **Sus escuderos y sus hijos.** Los hijos crecen como pajes en su casa, y desde valvasor puede tomar escuderos a su servicio. Aprenden con él en cada jornada de prueba superada y cuando leen juntos el Libro (I § 12). Con dieciocho años y formados, él los arma caballeros como padrino. Uno de ellos recibirá el Libro en el prado.
   - **La largueza.** La riqueza obliga: limosnas, dotes para doncellas pobres, caballeros pobres a los que sostener, cautivos que rescatar. El que guarda su tesoro un año sin dar cae en avaricia.
-  - **Topes.** La mesnada y la fortaleza tienen un máximo según el grado, y mantener a los hombres de armas cuesta.
+  - **Topes y rentas.** La mesnada y la fortaleza tienen un máximo según el grado. Cada tierra rinde lo suyo, y los vasallos según la prosperidad; las tierras se repueblan poco a poco. Si no hay dinero para la soldada, se van hombres de armas, pero no se pierden las tierras. Servir al rey no cuesta: el rey paga la soldada (40) y el botín de la hueste (100), de modo que siempre hay salida aunque el tesoro esté vacío.
   - **El juicio de su vida.** A los ochenta años, en el prado, se hace balance: honra, justicia impartida, obras de misericordia, caballeros armados, obras del señorío, pendones y trofeos, menos las faltas y los años de avaricia. De ahí sale la memoria que deja, de «espejo de la Orden» a «caballero que deshonró la Orden». En «Tu camino» se ve, mientras tanto, la memoria que dejaría hoy.
 - **Venir a menos.** Por deudas o por faltas se pierden prosperidad, vasallos y hasta el grado, y siempre cabe recuperarse.
 - **La Dama.** En la corte se conoce a la Dama y se la corteja con cortesía, verdad y castidad. Después se pide su mano y llegan el matrimonio ante el altar y los hijos.
